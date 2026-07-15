@@ -1,87 +1,111 @@
-<h1 align="center">Hola, soy Tu Nombre 👋</h1>
-<h3 align="center">Full Stack Developer & DevOps Engineer</h3>
+<h1 align="center">Hola, soy Saimon👋</h1>
+<h3 align="center">Ingeniero Técnico de Software | Desarrollo de Software</h3>
 
 <p align="center">
-  Construyo aplicaciones de extremo a extremo y automatizo todo lo que se pueda automatizar.
+  Graduado en Ingeniería Informática, especializado en Ingeniería del Software.
   <br>
-  Del <code>git commit</code> al <code>kubectl apply</code>, sin pasar por "funciona en mi máquina".
+  Me interesa el diseño, desarrollo y mantenimiento de aplicaciones,
+  así como aprender nuevas tecnologías y mejorar continuamente como desarrollador.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="www.linkedin.com/in/alberto-simón-fernández-de-la-mela-95560b386" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:albertosimon02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en: **[proyecto actual]**
-- 🌱 Aprendiendo: **[tecnología nueva]**
-- 💬 Pregúntame sobre: **CI/CD, contenedores, arquitectura de sistemas**
-- ⚡ Dato curioso: **[algo personal/técnico divertido]**
+* 🎓 Graduado en Ingeniería Informática, especializado en Ingeniería del Software.
+* 💻 Interesado en el desarrollo de aplicaciones, bases de datos y arquitectura de software.
+* ♟️ Desarrollador de **IronGambit**, una aplicación de entrenamiento de ajedrez mediante biofeedback.
+* 🌱 Actualmente continúo ampliando mis conocimientos y desarrollando proyectos personales.
+* 💬 Puedes preguntarme sobre **Python, Java, SQL, desarrollo de software y bases de datos**.
 
 ---
 
-### 🛠️ Stack Tecnológico
+## 🛠️ Tecnologías
 
-**Frontend**
+### Lenguajes de programación
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-**Backend**
+### Desarrollo web
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-**DevOps & Cloud**
+### Bases de datos
+
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📌 Proyectos destacados
+
+### ♟️ IronGambit
+
+Aplicación de entrenamiento de ajedrez desarrollada en Python que integra un motor de ajedrez con el procesamiento en tiempo real de la frecuencia cardíaca del jugador.
+
+### 🎮 GameBetter
+
+Aplicación web para consultar, clasificar y descubrir videojuegos, desarrollada con tecnologías web y una base de datos orientada a grafos.
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asimon02&show_icons=true&theme=github_dark&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimon02&theme=github-dark-blue" alt="Racha de contribuciones" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimon02&layout=compact&theme=github_dark" alt="Lenguajes más utilizados"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimon02&theme=github-dark" alt="Gráfico de actividad"/>
 </p>
 
 ---
 
-### 🏆 Trofeos
+## 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=radical&column=7&margin-w=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=asimon02&theme=algolia&column=7&margin-w=10" alt="Trofeos de GitHub"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=blueviolet&style=flat-square" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=asimon02&style=flat-square&color=blue" alt="Visitas al perfil"/>
 </p>
